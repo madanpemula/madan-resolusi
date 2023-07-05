@@ -1,0 +1,6 @@
+RENCANA KONTEN MADAN
+
+- Javascript
+- React JS
+- Next JS
+- Node JS
