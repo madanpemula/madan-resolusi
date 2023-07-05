@@ -6,3 +6,4 @@ RENCANA KONTEN MADAN
 - React JS
 - Next JS
 - Node JS
+- Monggo DB
