@@ -1,6 +1,8 @@
 RENCANA KONTEN MADAN
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - React JS
 - Next JS
 - Node JS
